@@ -2,7 +2,7 @@
 [//]: # (All rights reserved.)
 [//]: # (Distributed under the terms of the BSD 3-Clause License.)
 
-![img.png](te_am.png)
+![img.png](images/te_am.png)
 
 # Our Team 
 
