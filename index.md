@@ -27,3 +27,5 @@ High-level summary, or short description here.
 - I often put newlines in my Markdown files to keep lines from getting too long, but it isn't necessary.
 - I looked into sidebars like [this one](https://awikner.github.io/actm-umd-tamu-prllc/), but didn't see a
     simple way to add it. So, while I think this would be a good thing to add, we might need to later.
+- We should probably figure out how to better navigate from page to page (i.e. the sidebar), but for now 
+    I've just copied and pasted the links to the different pages on every page. 

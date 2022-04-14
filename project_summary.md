@@ -93,3 +93,13 @@ function()
 ```
 
 I just used it because I copy and pasted from the internet, which had newline calls at the end of each line of the lyrics. Since markdown requires two newlines to register a newline in the website format, all of it read as one line, which I did not like. This was a simple fix, although I'm not sure it was the correct one.
+
+
+#### Pages
+
+- [Home](index.md)
+- [Project Summary](project_summary.md)
+- [Progress Reports and Presentations](prog_and_pres.md)
+- [Publications](publications.md)
+- [Repository](https://github.com/ChaceAshcraft/my_test_wiki_repo/tree/gh-pages)
+- [Our Team](team.md)

@@ -13,3 +13,14 @@
 - Sheldon Plankton: **Chum Bucket**, _Bikini Bottom_ 
 - Patrick Star: **Under a Rock**, _Bikini Bottom_
 - Sandy Cheeks: **Polyurethane Dome**, _Bikini Bottom_
+
+
+
+#### Pages
+
+- [Home](index.md)
+- [Project Summary](project_summary.md)
+- [Progress Reports and Presentations](prog_and_pres.md)
+- [Publications](publications.md)
+- [Repository](https://github.com/ChaceAshcraft/my_test_wiki_repo/tree/gh-pages)
+- [Our Team](team.md)

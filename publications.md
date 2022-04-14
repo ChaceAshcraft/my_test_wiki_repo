@@ -14,3 +14,11 @@ Karra, Kiran, Chace Ashcraft, and Neil Fendley. ["The trojai software framework:
 APA	
 
 
+#### Pages
+
+- [Home](index.md)
+- [Project Summary](project_summary.md)
+- [Progress Reports and Presentations](prog_and_pres.md)
+- [Publications](publications.md)
+- [Repository](https://github.com/ChaceAshcraft/my_test_wiki_repo/tree/gh-pages)
+- [Our Team](team.md)
