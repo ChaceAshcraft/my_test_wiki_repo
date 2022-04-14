@@ -1,39 +1,29 @@
-## Welcome to GitHub Pages
+[//]: # (Copyright 2022, !!!Put name here, see repo code examples!!!)
+[//]: # (All rights reserved.)
+[//]: # (Distributed under the terms of the BSD 3-Clause License.)
 
-You can use the [editor on GitHub](https://github.com/ChaceAshcraft/my_test_wiki_repo/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## Title of the Project
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+High-level summary, or short description here. 
 
-### Markdown
+## Pages
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- [Project Summary](project_summary.md)
+- [Progress Reports and Presentations](prog_and_pres.md)
+- [Publications](publications.md)
+- [Repository](https://github.com/ChaceAshcraft/my_test_wiki_repo/tree/gh-pages)
+- [Our Team](team.md)
 
-```markdown
-Syntax highlighted code block
+## Pretty pictures
+![white_amoc.png](images/white_amoc.png)
+![red_blue_amoc.png](images/red_blue_amoc.png)
+![krusty_krab_pizza.jpeg](images/krusty_krab_pizza.jpeg)
 
-# Header 1
-## Header 2
-### Header 3
+# Notes
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ChaceAshcraft/my_test_wiki_repo/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
-
-[I have a test link](new_file.md)
+- We may need a copyright, like the ones at the bottom of [this](https://awikner.github.io/actm-umd-tamu-prllc/) and [this](https://jabrams23.github.io/UoE-UW-DARPA/). 
+- I included a commented out copyright on our code at the top, I'm not sure if this will be necessary if 
+    previous bullet is addressed, but this is how we have been marking code.
+- I often put newlines in my Markdown files to keep lines from getting too long, but it isn't necessary.
+- I looked into sidebars like [this one](https://awikner.github.io/actm-umd-tamu-prllc/), but didn't see a
+    simple way to add it. So, while I think this would be a good thing to add, we might need to later.
