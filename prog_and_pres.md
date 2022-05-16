@@ -25,3 +25,5 @@
 - [Publications](publications.md)
 - [Repository](https://github.com/ChaceAshcraft/my_test_wiki_repo/tree/gh-pages)
 - [Our Team](team.md)
+
+©️ 2022. The Johns Hopkins University Applied Physics Laboratory LLC.
