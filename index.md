@@ -31,4 +31,4 @@ High-level summary, or short description here.
     I've just copied and pasted the links to the different pages on every page. 
 
 
-#### ©️ 2022. The Johns Hopkins University Applied Physics Laboratory LLC.
+©️ 2022. The Johns Hopkins University Applied Physics Laboratory LLC.
