@@ -29,3 +29,6 @@ High-level summary, or short description here.
     simple way to add it. So, while I think this would be a good thing to add, we might need to later.
 - We should probably figure out how to better navigate from page to page (i.e. the sidebar), but for now 
     I've just copied and pasted the links to the different pages on every page. 
+
+
+#### ©️ 2022. The Johns Hopkins University Applied Physics Laboratory LLC.
