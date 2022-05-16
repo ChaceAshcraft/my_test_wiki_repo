@@ -4,17 +4,17 @@
 
 # Milestones
 
-- [Milestone Report 1](https://seuss.fandom.com/wiki/Thing_One_and_Thing_Two)
-- [Milestone Report 2](https://seuss.fandom.com/wiki/Thing_One_and_Thing_Two)
-- [Milestone Report 3](https://seuss.fandom.com/wiki/Thing_One_and_Thing_Two)
-- [Milestone Report 4](https://seuss.fandom.com/wiki/Thing_One_and_Thing_Two)
+- [Milestone Report 1](docs/milestones/JHUAPL%20DARPA%20PACMANS%20Milestone%201.pdf)
+- [Milestone Report 2](docs/milestones/JHUAPL%20PACMANS%20Milestone%202%20Report_f.pdf)
+- [Milestone Report 3](docs/milestones/JHU_APL%20Milestone%203%20Report%20%20for%20PACMANS_HR00112290032,%20HR0011256743.pdf)
+- [Milestone Report 4](docs/milestones/JHUAPL%20Milestone%204%20Report%20%20for%20PACMANS_HR00112290032,%20HR0011256743.pdf)
 
 # Presentations
 
-- [How to Give a Killer Presentation](https://hbr.org/2013/06/how-to-give-a-killer-presentation)
-- [Google Slides](https://www.google.com/slides/about/)
-- [Present vs present](https://grammarist.com/heteronyms/present-vs-present/)
-
+- [Kickoff](docs/presentations/kickoff_jhu_12152021_final.pptx)
+- [Deep Dive](docs/presentations/DARPA_DeepDive_PACMANS_released.pptx)
+- [Working Group 03/09/2022](docs/presentations/wrkgrp_03092022_final.pptx)
+- [Working Group 03/15/2022](docs/presentations/darpa_workgroup_03152022.pptx)
 
 
 #### Pages

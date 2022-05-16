@@ -2,6 +2,8 @@
 [//]: # (All rights reserved.)
 [//]: # (Distributed under the terms of the BSD 3-Clause License.)
 
+![](images/logo.png)
+
 ## Title of the Project
 
 High-level summary, or short description here. 
@@ -16,8 +18,6 @@ High-level summary, or short description here.
 
 ## Pretty pictures
 ![white_amoc.png](images/white_amoc.png)
-![red_blue_amoc.png](images/red_blue_amoc.png)
-![krusty_krab_pizza.jpeg](images/krusty_krab_pizza.jpeg)
 
 # Notes
 
