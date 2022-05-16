@@ -4,8 +4,10 @@
 
 # Milestones
 
-- [Thing 1](https://seuss.fandom.com/wiki/Thing_One_and_Thing_Two)
-- Thing 2 (see Thing 1)
+- [Milestone Report 1](https://seuss.fandom.com/wiki/Thing_One_and_Thing_Two)
+- [Milestone Report 2](https://seuss.fandom.com/wiki/Thing_One_and_Thing_Two)
+- [Milestone Report 3](https://seuss.fandom.com/wiki/Thing_One_and_Thing_Two)
+- [Milestone Report 4](https://seuss.fandom.com/wiki/Thing_One_and_Thing_Two)
 
 # Presentations
 
